@@ -1,0 +1,9 @@
+"ticker","nse_code","sector","industry","market_cap","pe"
+"TATAMOTORS","TATAMOTORS","Automobile","Cars & Utility Vehicles",100000,20
+"TAJA","TAJA","Automobile","Cars & Utility Vehicles",10000,25
+"RELIANCE","RELIANCE","Oil & Gas","Refining & Marketing",200000,25
+"TCS","TCS","IT","Software",300000,30
+"TCSI","TCS","ITI","Software",300000,30
+"HDFCBANK","HDFCBANK","Financials","Private Bank",400000,15
+"ICICIBANK","ICICIBANK","Financials","Private Bank",400000,15
+"INFY","INFY","IT","Software",250000,28
