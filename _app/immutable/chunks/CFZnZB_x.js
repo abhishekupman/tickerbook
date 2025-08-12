@@ -1,1 +1,0 @@
-import{l as r,m as c,n as i,q as _,v as h,w as y,x as d,y as k,z as l,U as u}from"./h7RsxPur.js";function I(n,f,t){r&&c();var e=n,s=u,a,o=i()?_:h;y(()=>{o(s,s=f())&&(a&&d(a),a=k(()=>t(e)))}),r&&(e=l)}export{I as k};
