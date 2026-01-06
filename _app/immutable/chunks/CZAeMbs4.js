@@ -1,0 +1,1 @@
+import{j as r,k as c,l as i,n as _,m as h,o as k,q as d,r as l,t as u,U as y}from"./BXUP_fL0.js";function I(n,t,f){r&&c();var e=n,s=y,a,o=i()?_:h;k(()=>{o(s,s=t())&&(a&&d(a),a=l(()=>f(e)))}),r&&(e=u)}export{I as k};
